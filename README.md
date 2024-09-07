@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building low level projects using the c language<br>👯 I’m looking to collaborate on systems programming<br>🌱 I’m currently learning the c language
-
+🔍 As a curious and driven student at 1337, I'm passionate about diving into the depths of computer science 💻. Currently, I'm honing my skills in building low-level projects, where I can exercise my problem-solving muscles and gain a deeper understanding of system fundamentals 🔧. I'm excited to collaborate with like-minded individuals on systems programming projects that push the boundaries of what's possible 🚀. Let's build something amazing together! 👋
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Imrane_halim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ImraneH) 

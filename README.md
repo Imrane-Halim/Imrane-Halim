@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔍 As a curious and driven student at 1337, I'm passionate about diving into the depths of computer science 💻. Currently, I'm honing my skills in building low-level projects, where I can exercise my problem-solving muscles and gain a deeper understanding of system fundamentals 🔧. I'm excited to collaborate with like-minded individuals on systems programming projects that push the boundaries of what's possible 🚀. Let's build something amazing together! 👋
 
-[![ihalim's 42 stats](https://badge.mediaplus.ma/colorfulwaves/ihalim)]([https://github.com/oakoudad/badge42](https://profile.intra.42.fr/users/ihalim))
+[![ihalim's 42 stats](https://badge.mediaplus.ma/colorfulwaves/ihalim)]([https://profile.intra.42.fr/users/ihalim])
 
 ## 🌐 Socials:
 
